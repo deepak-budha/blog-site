@@ -3,8 +3,8 @@
 *~
 
 #Env
-.env 
-myenv/
+.env
+myenv
 venv/
 
 #Database
