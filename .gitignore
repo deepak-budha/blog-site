@@ -4,7 +4,7 @@
 
 #Env
 .env 
-myvenv/
+myenv/
 venv/
 
 #Database
