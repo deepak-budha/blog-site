@@ -4,8 +4,8 @@
 
 #Env
 .env
-myenv
 venv/
+myenv/
 
 #Database
 db.sqlite3
